@@ -1,0 +1,57 @@
+<html>
+    <head>
+        <title>Types of Robots</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+
+    <body><header>
+            <h1>ROBOT SHOP</h1>
+            <div class = "navigation_links">
+            <h2><a href = "index.html" target="_self">ROBOT</a></h2>
+            <h2><a href = "Robot_product.html" target="_self">Types</a></h2>
+            </div>
+        </header>
+        
+        <div class = "bordered_img">
+            
+            <div>
+                <img src="https://www.globaltimes.cn/Portals/0/attachment/2024/2024-11-11/af92b5da-d18e-40ca-bf38-417d23ac1af9.jpeg"/>
+            </div>
+
+            <div>
+                <img src="https://www.geo.tv/assets/uploads/updates/2017-12-04/170636_7112997_updates.jpg"/>
+            </div>
+
+            <div>
+                <img src="https://cdn.theatlantic.com/thumbor/8zkr6AykYSHiXD6rpfrm7N0cTv8=/302x50:4317x2308/1952x1098/media/img/mt/2014/08/shutterstock_187027727-1/original.jpg"/>
+            </div>
+
+            <div>
+                <img src="https://www.rollingstone.com/wp-content/uploads/2018/06/rs-202131-maxresdefault.jpg?w=1581&h=1054&crop=1"/>
+            </div>
+
+            <div>
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfbNvEDw91VHw64RNBIUuIBTw85Zp9uJ8_Rg&s"/>
+            </div>
+
+        
+            <div>
+                <img src="https://i.guim.co.uk/img/media/d6da2035a8fa7554262ff3ecc3c50073fa1514d6/0_176_2767_1660/master/2767.jpg?width=465&dpr=1&s=none&crop=none"/>
+            </div>
+
+           <div>
+                <img src="https://resizing.flixster.com/5NDzhmQ9r4vu3ynkW0oU5SLS8mI=/270x160/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/356/554/thumb_9000F6DE-F062-4213-8876-0C8852687F1B.jpg"/>
+            </div>
+
+            <div>
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDxPb2nKtP0vt-Ons7phsEhg_iR17jY5duFw&s"/>
+            </div>
+        </div>
+
+        <footer>
+            <h5>Contact.no: 0166006045 (Dakshesh) </h5>
+        </footer>
+
+    </body>
+</html>                
+
